@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
-    background-image: url(Wheat.jpg);
+    background-image: url(./../images/Wheat.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -139,30 +139,30 @@ nav ul li a
     {
         width: 100%;
         height: 350px;
-        background: url("bannerZ.jpg") no-repeat center;
+        background: url(./../images/bannerZ.jpg) no-repeat center;
         background-size: cover;        
         animation: test 8s infinite;
     }  
     
     @keyframes test {
         0%{
-            background: url("bannerZ.jpg") no-repeat center;
+            background: url(./../images/bannerZ.jpg) no-repeat center;
             background-size: cover;
         
     
         }
         25% {
-            background: url("Case_Magnum.jpg") no-repeat center;
+            background: url(./../images/Case_Magnum.jpg) no-repeat center;
             background-size: cover;
         
         }
         50% {
-            background: url("Fendt105022.png") no-repeat center;
+            background: url(./../images/Fendt105022.png) no-repeat center;
             background-size: cover;
             
         }
         75% {
-            background: url("Fendt115022.png") no-repeat center;
+            background: url(./../images/Fendt115022.png) no-repeat center;
             background-size: cover;
         }
     }
