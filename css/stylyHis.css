@@ -225,16 +225,6 @@ nav ul li a
 .text
     {
         font-size: 20px;
-    } 
-
-.video-historie
-    {
-        min-width: 50%;
-        width: 100%;
-        height: auto;
-        border: 3px solid White;
-        background-color: black;
-        Margin-bottom: 30px;
     }   
     
     .wrapper
